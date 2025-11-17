@@ -2105,25 +2105,6 @@ figure.highlight pre .javascript .function {
   margin: 2px;
 }
 .container .highlight-tools i {
-  display: -webkit-inline-box;
-  display: -moz-inline-box;
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-box;
-  display: inline-flex;
-  -webkit-box-pack: center;
-  -moz-box-pack: center;
-  -o-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -moz-box-align: center;
-  -o-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
-  padding: 5px;
   cursor: pointer;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -2145,7 +2126,7 @@ figure.highlight pre .javascript .function {
   transform: rotate(-90deg);
 }
 .container .highlight-tools > .macStyle {
-  margin: 0;
+  padding: 0;
 }
 .container .highlight-tools .code-lang {
   -webkit-box-flex: 1;
