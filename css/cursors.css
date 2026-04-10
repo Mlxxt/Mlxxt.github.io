@@ -1,9 +1,7 @@
 body {
-    cursor:url('/cur/Normal.cur'),
-          default;
-  }
-  a,
-  link {
-    cursor:url('/cur/Link.cur'),
-          default;
-  }
+   cursor: url(/cur/Normal.cur), default;
+}
+a, img {
+   cursor: url(/cur/Link.cur), default;
+}
+
