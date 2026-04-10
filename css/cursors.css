@@ -1,7 +1,7 @@
 body {
-   cursor: url(/cur/Normal.cur), default;
+   cursor: url('/cur/Normal.cur'),  auto !important;
 }
 a, img {
-   cursor: url(/cur/Link.cur), default;
+   cursor: url('/cur/Link.cur'),  auto !important;
 }
 
